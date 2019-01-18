@@ -1,0 +1,5 @@
+{
+    "blogs": [
+        {"id": 1,"title": "My first blog post", "body":"This post means that everything works fine. look at you, boy.. congrats ;)", "author": "Ricardo"}
+    ]
+}
